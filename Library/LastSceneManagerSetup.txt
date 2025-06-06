@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/Scenes/BootScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/FirstOpen.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/MainMenu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/EscapeScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/SettingsScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/GameScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
