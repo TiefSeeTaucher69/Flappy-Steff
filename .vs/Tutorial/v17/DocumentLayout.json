@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "E:\\Unity\\Tutorial\\Tutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|e:\\unity\\tutorial\\tutorial\\assets\\scripts\\game\\steffscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|E:\\Unity\\Tutorial\\Tutorial\\assets\\scripts\\mainmenu\\menuhandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\menuhandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|E:\\Unity\\Tutorial\\Tutorial\\assets\\scripts\\mainmenu\\leaderboardgetterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\leaderboardgetterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|E:\\Unity\\Tutorial\\Tutorial\\assets\\scripts\\game\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|E:\\Unity\\Tutorial\\Tutorial\\assets\\scripts\\game\\steffscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\steffscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|e:\\unity\\tutorial\\tutorial\\assets\\scripts\\game\\leaderboardsenderscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\leaderboardsenderscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|E:\\Unity\\Tutorial\\Tutorial\\assets\\scripts\\settingsscene\\settingsscenehandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escapescreen\\escapescenehandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|E:\\Unity\\Tutorial\\Tutorial\\assets\\scripts\\mainmenu\\menuhandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\menuhandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|E:\\Unity\\Tutorial\\Tutorial\\assets\\scripts\\game\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|E:\\Unity\\Tutorial\\Tutorial\\assets\\scripts\\game\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|E:\\Unity\\Tutorial\\Tutorial\\assets\\scripts\\game\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,24 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SFXVolumeControlScript.cs",
-              "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\SettingsScene\\SFXVolumeControlScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsScene\\SFXVolumeControlScript.cs",
-              "ToolTip": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\SettingsScene\\SFXVolumeControlScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SettingsScene\\SFXVolumeControlScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "LeaderboardSenderScript.cs",
+              "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\Game\\LeaderboardSenderScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\LeaderboardSenderScript.cs",
+              "ToolTip": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\Game\\LeaderboardSenderScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\LeaderboardSenderScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T18:30:39.208Z",
+              "WhenOpened": "2025-06-06T22:32:51.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BootSceneScript.cs",
               "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\BootScene\\BootSceneScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BootScene\\BootSceneScript.cs",
@@ -87,12 +95,11 @@
               "RelativeToolTip": "Assets\\Scripts\\BootScene\\BootSceneScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:27:16.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T15:27:16.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "FirstOpen.cs",
               "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\FirstOpen\\FirstOpen.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FirstOpen\\FirstOpen.cs",
@@ -100,12 +107,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FirstOpen\\FirstOpen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:19:50.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T15:19:50.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "EscapeSceneHandlerScript.cs",
               "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\EscapeScreen\\EscapeSceneHandlerScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EscapeScreen\\EscapeSceneHandlerScript.cs",
@@ -113,38 +119,37 @@
               "RelativeToolTip": "Assets\\Scripts\\EscapeScreen\\EscapeSceneHandlerScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:24:12.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T15:24:12.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "MenuHandlerScript.cs",
               "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\MainMenu\\MenuHandlerScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MenuHandlerScript.cs",
               "ToolTip": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\MainMenu\\MenuHandlerScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\MainMenu\\MenuHandlerScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T15:03:31.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SteffScript.cs",
               "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\Game\\SteffScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\SteffScript.cs",
               "ToolTip": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\Game\\SteffScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\Game\\SteffScript.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAuwGwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T15:01:32.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "SettingsSceneHandlerScript.cs",
               "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\SettingsScene\\SettingsSceneHandlerScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsScene\\SettingsSceneHandlerScript.cs",
@@ -152,12 +157,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SettingsScene\\SettingsSceneHandlerScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T18:42:08.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T18:42:08.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "MusicVolumeControlScript.cs",
               "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\SettingsScene\\MusicVolumeControlScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsScene\\MusicVolumeControlScript.cs",
@@ -165,12 +169,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SettingsScene\\MusicVolumeControlScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T18:50:40.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T18:50:40.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MasterVolumeControlScript.cs",
               "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\SettingsScene\\MasterVolumeControlScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsScene\\MasterVolumeControlScript.cs",
@@ -178,12 +181,49 @@
               "RelativeToolTip": "Assets\\Scripts\\SettingsScene\\MasterVolumeControlScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:02:48.605Z",
+              "WhenOpened": "2025-06-05T19:02:48.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\Game\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\LogicScript.cs",
+              "ToolTip": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\Game\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\LogicScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:01:29.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
+              "Title": "LeaderboardGetterScript.cs",
+              "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\MainMenu\\LeaderboardGetterScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\LeaderboardGetterScript.cs",
+              "ToolTip": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\MainMenu\\LeaderboardGetterScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\LeaderboardGetterScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:33:03.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SFXVolumeControlScript.cs",
+              "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\SettingsScene\\SFXVolumeControlScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsScene\\SFXVolumeControlScript.cs",
+              "ToolTip": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\SettingsScene\\SFXVolumeControlScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingsScene\\SFXVolumeControlScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:30:39.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "PipeSpawnScript.cs",
               "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\Game\\PipeSpawnScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\PipeSpawnScript.cs",
@@ -191,12 +231,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Game\\PipeSpawnScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:01:31.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T15:01:31.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "PipeMoveScript.cs",
               "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\Game\\PipeMoveScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\PipeMoveScript.cs",
@@ -204,12 +243,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Game\\PipeMoveScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:01:31.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T15:01:31.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "PipeMiddleScript.cs",
               "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\Game\\PipeMiddleScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\PipeMiddleScript.cs",
@@ -217,21 +255,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Game\\PipeMiddleScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:01:30.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LogicScript.cs",
-              "DocumentMoniker": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\Game\\LogicScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\LogicScript.cs",
-              "ToolTip": "E:\\Unity\\Tutorial\\Tutorial\\Assets\\Scripts\\Game\\LogicScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\LogicScript.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowC4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:01:29.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T15:01:30.369Z"
             }
           ]
         }

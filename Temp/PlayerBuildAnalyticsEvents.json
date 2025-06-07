@@ -1,0 +1,36 @@
+{
+  "player_build_data": [
+    {
+      "type": "playerBuildTimingData",
+      "msg": {
+        "build_event_id": "1c0cb9171c9c40c4fa94386d357619b5",
+        "build_player": 19221,
+        "preprocess_player": 153,
+        "produce_player_script_assemblies": 7530,
+        "build_scripts_dlls": 30,
+        "writing_asset_files": 1984,
+        "postprocess_built_player": 6578,
+        "node_summary_table": [
+          {
+            "name": "Csc",
+            "duration": 3185
+          },
+          {
+            "name": "UnityLinker.exe",
+            "duration": 896
+          }
+        ]
+      },
+      "version": 1
+    },
+    {
+      "type": "unityLinkerData",
+      "msg": {
+        "build_event_id": "1c0cb9171c9c40c4fa94386d357619b5",
+        "node_executed": true,
+        "option_rule_set": "Copy"
+      },
+      "version": 1
+    }
+  ]
+}
