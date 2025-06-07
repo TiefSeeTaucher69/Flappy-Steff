@@ -454,6 +454,7 @@
 "Assets/Scripts/MainMenu/MenuHandlerScript.cs"
 "Assets/Scripts/SettingsScene/MasterVolumeControlScript.cs"
 "Assets/Scripts/SettingsScene/MusicVolumeControlScript.cs"
+"Assets/Scripts/SettingsScene/ResolutionSettingsScript.cs"
 "Assets/Scripts/SettingsScene/SettingsSceneHandlerScript.cs"
 "Assets/Scripts/SettingsScene/SFXVolumeControlScript.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"

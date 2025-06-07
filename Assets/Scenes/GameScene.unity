@@ -5790,6 +5790,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fpsDropdown: {fileID: 1879898578}
+  resolutionDropdown: {fileID: 784973686}
 --- !u!4 &1787639655
 Transform:
   m_ObjectHideFlags: 0

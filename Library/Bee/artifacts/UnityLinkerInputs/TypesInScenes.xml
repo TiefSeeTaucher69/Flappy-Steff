@@ -12,9 +12,12 @@
 		<type fullname="PipeMiddleScript" preserve="nothing"/>
 		<type fullname="PipeMoveScript" preserve="nothing"/>
 		<type fullname="PipeSpawnScript" preserve="nothing"/>
+		<type fullname="ResolutionSettingsScript" preserve="nothing"/>
 		<type fullname="SettingsSceneHandlerScript" preserve="nothing"/>
 		<type fullname="SFXVolumeControl" preserve="nothing"/>
+		<type fullname="SpeedManager" preserve="nothing"/>
 		<type fullname="SteffScript" preserve="nothing"/>
+		<type fullname="VideoSettingsInGameScript" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.2D.Animation.Runtime">
 		<type fullname="UnityEngine.U2D.Animation.BufferManager" preserve="nothing"/>
@@ -155,6 +158,7 @@
 		<type fullname="UnityEngine.UI.Button" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.CanvasScaler" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.ContentSizeFitter" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Dropdown" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Image" preserve="nothing"/>

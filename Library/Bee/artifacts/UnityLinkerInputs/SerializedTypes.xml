@@ -112,6 +112,9 @@
 		<type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Dropdown/DropdownEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Dropdown/OptionData" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Dropdown/OptionDataList" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true"/>
